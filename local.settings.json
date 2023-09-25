@@ -3,9 +3,9 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storage18091;AccountKey=v6J7lyvgWYdKomcpeHryRwNudcNXbeaqiaFyvFmSDn7vzd0cq6jb2mAxrd8ok95FiUTe2giyLkqV+AStaP0YHg==;EndpointSuffix=core.windows.net",
-    "AzureServiceBusConnectionString": "Endpoint=sb://servicebus1909.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=OBNS7ojRnCyueBknMjG+XOFmQdvJ30dqi+ASbBSRM3w=",
-    "ServiceBusQueueName": "myqueue1"
+    "AzureWebJobsStorage": "Storage Connection String",
+    "AzureServiceBusConnectionString": "azure service bus connection string",
+    "ServiceBusQueueName": "service bus queue name"
 
   }
 }
